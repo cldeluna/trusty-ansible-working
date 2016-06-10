@@ -1,0 +1,6 @@
+[asr]
+dc-rtr[1:10]
+
+
+[asr:vars]
+ansible_executable=''

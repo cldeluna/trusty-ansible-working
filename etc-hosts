@@ -1,0 +1,19 @@
+127.0.0.1       localhost
+::1     localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+172.17.0.2      47baf696f149
+172.18.3.11 dc-rtr3
+172.18.3.12 dc-rtr4
+172.18.3.13 dc-rtr5
+172.18.3.14 dc-rtr6
+172.18.3.15 dc-rtr7
+172.18.3.16 dc-rtr8
+172.18.3.17 dc-rtr1
+172.18.3.18 dc-rtr2
+172.18.3.17 dc-rtr9
+172.18.3.18 dc-rtr10
+
+
