@@ -25,6 +25,7 @@ Target Functions:
 - Automate the backup of configurations
 - Automate the running of "snapshot" and "discovery" show commands
 - Automate configuration updates
+- Automate testing and validation
 
 The ability to instantiate a "framework" to achieve these tasks across Windows, Macintosh, and Linux based systems including laptops was a key requirement.
 
