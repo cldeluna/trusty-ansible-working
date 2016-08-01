@@ -33,6 +33,8 @@ Common Tasks that need to be executed on most, if not all, projects.
 * Run a variety of show commands for both initial discovery, baselines, and testing.
 * Compare existing configurations against a master template both to assess impact of change and for compliance.
 * Push out configuration updates
+* Audit Configurations
+* Testing
 
 In many cases I'm either on site or traveling with my laptop so the solution needed to be portable and flexible enough to deal with the differences I encounter across projects.  A solution that could exist on my laptop, my desktop, a local VM etc.. is key.
 
@@ -44,7 +46,7 @@ Ansible - Provides the framework to automate most of the target functions.  Its 
 
 Progress:
 
-Purpose built Docker image based on Ubuntu 14.04 (Trust Tahr) with python, ansible, and a few other tools to make it a bit easier to work in the environment.
+Purpose built Docker image based on Ubuntu 14.04 (Trusty Tahr) with python, ansible, and a few other tools to make it a bit easier to work in the environment.
 https://github.com/cldeluna/trusty-ansible
 
 This image is currently working on Windows 7 (next test will be Windows 10 and Mac OS-X).
