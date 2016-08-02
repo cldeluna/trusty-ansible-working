@@ -56,7 +56,7 @@ Simplistic Ansible playbook to back up configurations and run a variety of show 
 
 Assumptions:
 The environment will be on a laptop or destop running Windows 7, 10 or Mac OS-X 10.8 or later.
-You have access to test network equiment either real or virutal
+You have access to test network equiment either real or virtual.
 
 Requirements:
  Docker Toolbox Installed and Working
